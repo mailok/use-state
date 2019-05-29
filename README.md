@@ -4,6 +4,14 @@ useState
 Minimalist store Rxjs to represent the state of a component with a reactive approach.
 
 
+### How to install?
+
+```
+npm i @mailok/use-state --save
+```
+
+
+
 ```
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { fromState, useState } from '@mailok/use-state';
