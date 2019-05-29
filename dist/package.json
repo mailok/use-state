@@ -1,0 +1,23 @@
+{
+  "name": "@mailok/use-state",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "description": "Minimalist store Rxjs to represent the state of a component with a reactive approach",
+  "license": "MIT",
+  "keywords": [
+    "RxJS",
+    "Angular",
+    "Store"
+  ],
+  "typings": "./dist/index.d.ts",
+  "maintainers": [
+    "Angel Núñez"
+  ],
+  "repository": {
+    "url": "https://github.com/mailok/use-state"
+  },
+  "devDependencies": {
+    "rxjs": "~6.3.3",
+    "typescript": "~3.2.2"
+  }
+}
